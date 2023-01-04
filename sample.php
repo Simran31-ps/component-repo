@@ -1,3 +1,3 @@
-<html>
-  <h1> simran </h1>
-</html>
+<?php
+echo "sample beanstalk";
+?>
