@@ -1,3 +1,3 @@
 <?php
-echo "Sample beanstalk demo";
+echo "Sample beanstalk demo 1";
 ?>
